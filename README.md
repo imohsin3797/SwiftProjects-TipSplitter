@@ -1,1 +1,1 @@
-# f24-bootcamp-wesplit
+# Tip Splitter
